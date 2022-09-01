@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 744 0x01-shell_permissions
+chmod 701 hello
